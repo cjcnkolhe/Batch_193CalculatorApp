@@ -4,5 +4,6 @@ public class Add {
 
 	public void sum() {
 		System.out.println(10+10);
+		System.out.println(20+20);
 	}
 }
